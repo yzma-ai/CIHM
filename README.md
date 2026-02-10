@@ -4,7 +4,6 @@
 
 > **Paper Title:** CIHM: Context-Insight Hybrid Mamba for Efficient Medical Image Segmentation  
 > **Authors:** Ma YiZe et al.  
-> **Status:** Under Review (Pattern Recognition)
 
 ---
 
